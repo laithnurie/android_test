@@ -8,15 +8,9 @@
 /test/tmp/
 /test/version_tmp/
 /tmp/
-/test_servers/
-.idea
-*.png
-
-## Specific to RubyMotion:
-.dat*
-.repl_history
-build/
-
+.idea/*
+log/
+.sass_cache/
 ## Documentation cache and generated files:
 /.yardoc/
 /_yardoc/
