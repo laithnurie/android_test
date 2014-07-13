@@ -29,3 +29,7 @@ log/
 
 # unless supporting rvm < 1.11.0 or doing something fancy, ignore this:
 .rvmrc
+
+*.png
+.irb-history
+test_servers/
